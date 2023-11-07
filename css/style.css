@@ -6,9 +6,15 @@
     padding: 10px;
     font-size: 12px;
     text-align: center;
+    min-height: 40px;
    
 }
 
 .nested {
     background-color: hsl(146.67deg 100% 44.12%);
 }
+
+.container {
+    margin-bottom: 50px;
+}
+
