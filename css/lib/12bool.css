@@ -8,10 +8,6 @@
 /* versione xs */
 
 /* stili di griglia */
-.container {
-    max-width: 560px;
-    margin: 0 auto;
-}
 
 .container-fluid {
     width: 100%;
@@ -153,11 +149,6 @@
 @media all and (min-width: 576px) {
     
 
-    /* stili di griglia */
-    .container {
-        max-width: 540px;
-    }
-
     /* regole colonne */
     .col-sm {
         flex-grow: 1;
@@ -283,11 +274,6 @@
 
 @media all and (min-width: 768px) {
     
-
-    /* stili di griglia */
-    .container {
-        max-width: 740px;
-    }
 
     /* regole colonne */
     .col-md {
@@ -417,7 +403,8 @@
 
     /* stili di griglia */
     .container {
-        max-width: 980px;
+        max-width: 1200px;
+        margin: 0 auto;
     }
 
     /* regole colonne */

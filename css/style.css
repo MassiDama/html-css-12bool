@@ -1,0 +1,14 @@
+/* stili DEBUG PAGINA */
+[class*="col-"] {
+    background-color: hsl(214.08deg 100% 49.02%);
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    text-align: center;
+   
+}
+
+.nested {
+    background-color: hsl(146.67deg 100% 44.12%);
+}
